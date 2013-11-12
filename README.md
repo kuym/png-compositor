@@ -11,3 +11,6 @@ particular case, which is so simplistic that a couple lines of C++ can do it.
 Install libpng in the root directory of the repository and `./configure` and `make` it as you normmally
 would.  Then follow the instructions at the top of `png-composite.cpp` to build it.  You may need to change
 the paths to libpng if it isn't the same version.
+
+###Credit
+The code was shamelessly adapted from http://zarb.org/~gc/html/libpng.html

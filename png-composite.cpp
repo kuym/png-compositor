@@ -15,6 +15,8 @@ fi
 exit
 */
 
+// Code shamelessly adapted from http://zarb.org/~gc/html/libpng.html
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "png.h"
